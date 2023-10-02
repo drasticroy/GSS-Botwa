@@ -1,21 +1,21 @@
 {
-  "name": "whatsapp-gpt (GSS)",
-  "description": " Whatsapp bot.",
+  "name": "whatsapp-gpt (GSS recoded)",
+  "description": " Whatsapp Bot.",
   "keywords": [
     "whatsapp bot",
     "baileys",
     "whatsapp-api"
   ],
-  "repository": "https://github.com/MatrixCoder0101/GSS-Botwa",
+  "repository": "https://github.com/drasticroy/GSS-Botwa",
   "stack": "container",
   "env": {
       "BOT_NAME": {
-      "description": "your bot name",
+      "description": "GSS Bot Recoded",
       "required": false,
       "value": ""
     },
     "OWNER_NAME": {
-      "description": "put your name",
+      "description": "Drastic Roy",
       "required": false,
       "value": ""
     },
